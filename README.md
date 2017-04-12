@@ -1,9 +1,9 @@
-#PLEASE INSTALL :
+# PLEASE INSTALL :
 
-###UBUNTU:
+### UBUNTU:
 
 sudo apt install libpq-dev python3-dev
 
-###MAC:
+### MAC:
 
 brew install postgresql
